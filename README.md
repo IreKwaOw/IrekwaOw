@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Analysis on collected wheat production i some sellected countries in Africa</b>
+  - [Praciting Analysis in Python](https://github.com/IreKwaOw/WheatDataAnalysis)
 
 <h2>Certifications</h2>
 
